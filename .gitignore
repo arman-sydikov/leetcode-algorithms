@@ -17,3 +17,6 @@
 # Manim
 */media/
 */__pycache__/
+
+# VS Code
+.vscode/
